@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello, I'm Sara! | Digital Marketing & Web Specialist 👋
 
-<!--
-**saradoozani/saradoozani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Empowering brands with data-driven digital strategies, content optimization, and conversion-focused web experiences.
 
-Here are some ideas to get you started:
+💼 Core Competencies
+- ✅ Instagram growth architecture & advanced content strategy
+- ✅ Visual asset creation & brand identity development
+- ✅ Responsive web design & technical SEO implementation
+- ✅ Performance marketing & analytical consultation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Professional Achievements
+- Established engagement optimization frameworks for client accounts
+- Engineered conversion-optimized website architectures
+- Developed multi-channel content campaigns with extensive reach
+- Implemented comprehensive analytics systems for actionable insights
